@@ -1,0 +1,5 @@
+# name : namespace ...
+# key: ns
+# uuid: ns
+# --
+namespace ${1:name}

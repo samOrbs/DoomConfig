@@ -1,0 +1,7 @@
+# name: class method
+# key: met
+# uuid: met
+# --
+${1:public} function ${2:name}($3) {
+    `%`$0
+}

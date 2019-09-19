@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: React.createClass({...})
+# key: rcl
+# uuid: rcl
+# --
+var ${1:ComponentName} = React.createClass({
+    render: function() {
+        $>`%`$0
+    }
+});
